@@ -1,9 +1,0 @@
-h1. Dart Lang Syntax for VIM
-
-h2. Installation via bundle & git submodule
-
-bc. cd ~/.vim/ && git submodule add https://github.com/bartekd/vim-dart.git bundle/vim-dart
-
-h2. Issues
-
-"This repository":https://github.com/bartekd/vim-dart/issues or "here":http://code.google.com/p/dart/issues/list
